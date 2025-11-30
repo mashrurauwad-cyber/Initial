@@ -48,4 +48,7 @@ The map highlights high sales clusters across various regions. Most large marker
 ---
 
 ## Tableau Dashboard
-![image alt](
+![image alt](https://github.com/mashrurauwad-cyber/Business-Data-Anlytics-Project/blob/main/Sales%20Dashboard.png?raw=true)
+You can navigate the interactive action oriented dashboard from the following link:
+https://public.tableau.com/shared/7D3PF4PMM?:display_count=n&:origin=viz_share_link
+

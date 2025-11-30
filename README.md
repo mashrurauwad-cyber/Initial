@@ -1,5 +1,5 @@
 # About Myself
-Hi! I am **Mashrur Auwad**. Currently I am an undergraduate student at department of Finance at University of Dhaka. I am a finance enthusiast trying to build a growth oriented career in relevant sectors. By optimizing key capabilities like financial modeling, data analytics and soft skills, I am preparing myself for the competitive landscape.
+Hi! I am **Mashrur Auwad**. Currently, I am an undergraduate student at department of Finance at University of Dhaka. I am a finance enthusiast trying to build a growth oriented career in relevant sectors. By optimizing key capabilities like financial modeling, data analytics and soft skills, I am preparing myself for the competitive landscape.
 # Data Analytics Portfolio
 This repository contains all the visualizations, screenshots, and insights from my analysis of the **Global Store Dataset** using **Power BI** and **Tableau**.
 

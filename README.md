@@ -9,7 +9,7 @@ This repository contains all the visualizations, screenshots, and insights from 
 The dataset contains several information about sales, profit, quantity, shipping cost, mode, discounts, regions, state, customer segments, and so on. 
 By using Power BI and Tableau, I tried to anlysze and the the insights through various graphs and charts and finally the dashboard shows an easy navigation of interactive insights.
 
--**Tools:**
+**Tools:**
 - Power BI
 - Tableau
 - Power Quiry

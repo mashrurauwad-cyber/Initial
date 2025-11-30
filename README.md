@@ -20,23 +20,23 @@ By using Power BI and Tableau, I tried to anlysze and the the insights through v
 ## Power BI Dashboard
 ![image alt](https://github.com/mashrurauwad-cyber/Initial/blob/a94222fffd32d3ac485df9c8fe070101cd6d8717/Power%20BI%20Regional%20Dashboard.png)
 
-- **Regional Slicers**
-These slicers allow users to easily navigate between regions instantly. They help compare sales, orders and customer behavior across different parts of the region without changing pages.
-- **Customer ID and Order Priority by Region and Segment (Line and stacked column Chart)**
-This chart shows how many customers placed orders and how priority levels vary by region.
+- **Regional Slicers:**
+ These slicers allow users to easily navigate between regions instantly. They help compare sales, orders and customer behavior across different parts of the region without changing pages.
+- **Customer ID and Order Priority by Region and Segment (Line and stacked column Chart):**
+ This chart shows how many customers placed orders and how priority levels vary by region.
 Consumer customers dominate in almost every region, with Corporate and Home Office following behind. The count of order priority moved with the customer order.
-- **Total Order by Region (Clustered Bar Chart)**
-Central leads with the highest number of orders. South, EMEA, and North show moderate order volume. Oceania and Africa remain lower, indicating less business activity in those regions.
-- **Customer ID by Segment (Donut Chart)**
-Consumer is the largest segment, making up more than half of total customers. Corporate ranks second, while Home Office is the smallest segment. This shows that most business comes from individual consumers.
-- **Sales and profit Card**
-The cards shows the total sum of sales and profit respectively. We can also navigate the region wise total sales and profit by the slicer.
-- **Shipping Cost by Ship Mode and Category (Clolumn Chart)**
-Shipping costs are highest for Standard Class. Technology and Furniture shipments cost the most to deliver in Standard Class. Same Day shipping has the lowest cost volume, likely due to lower order count. Office Supplies generally shows lower cost across all modes.
-- **Sales by Category and Segment (Column Chart)**
-Technology brings in the highest revenue across all segments. Consumer segment consistently generates more sales across all categories. Home Office has the lowest sales share in all categories.
--**Region and Sales by Country and Segment (Map)**
-The map highlights high sales clusters across various regions. Most large markers belong to the Consumer segment, confirming that it drives the majority of global sales. Through the slicer, we can easily navigate acroos the map and visualize the sales in different regions.
+- **Total Order by Region (Clustered Bar Chart):**
+ Central leads with the highest number of orders. South, EMEA, and North show moderate order volume. Oceania and Africa remain lower, indicating less business activity in those regions.
+- **Customer ID by Segment (Donut Chart):**
+ Consumer is the largest segment, making up more than half of total customers. Corporate ranks second, while Home Office is the smallest segment. This shows that most business comes from individual consumers.
+- **Sales and profit Card:**
+ The cards shows the total sum of sales and profit respectively. We can also navigate the region wise total sales and profit by the slicer.
+- **Shipping Cost by Ship Mode and Category (Cluster Column Chart):**
+ Shipping costs are highest for Standard Class. Technology and Furniture shipments cost the most to deliver in Standard Class. Same Day shipping has the lowest cost volume, likely due to lower order count. Office Supplies generally shows lower cost across all modes.
+- **Sales by Category and Segment (Column Chart):**
+ Technology brings in the highest revenue across all segments. Consumer segment consistently generates more sales across all categories. Home Office has the lowest sales share in all categories.
+- **Region and Sales by Country and Segment (Map):**
+ The map highlights high sales clusters across various regions. Most large markers belong to the Consumer segment, confirming that it drives the majority of global sales. Through the slicer, we can easily navigate acroos the map and visualize the sales in different regions.
 
 **Overall Dashboard Insight**
 - Central region is the strongest performer in orders and customer count.
@@ -52,3 +52,16 @@ The map highlights high sales clusters across various regions. Most large marker
 You can navigate the interactive action oriented dashboard from the following link:
 https://public.tableau.com/shared/7D3PF4PMM?:display_count=n&:origin=viz_share_link
 
+- **Category Wise Sales (Bar Chart):**
+  This chart shows how each sub-category contributes to overall sales across Furniture, Office Supplies and Technology. Technology items record the highest sales, especially Phones and Accessories. Furniture has a few strong performers like Chairs and Tables, but categories like Bookcases and Furnishings show much lower sales. Office Supplies has mixed results, with categories like Storage and Binders performing moderately while items like Labels and Envelopes stay low.
+- **Region Wise Sales & Profit (Map Visualization):**
+  The map highlights major sales clusters across the regions. Larger blue circles show states with high revenue, while orange circles point to profit or loss-making regions. Some locations show negative profit, which signals discount-heavy sales or high shipping costs.
+- **Product Wise Profit (Treemap):**
+  This treemap makes it easy to spot which products generate the most profit. Copiers and Phones stand out as top profit contributors. Chairs and Bookcases also generate solid profit. Some sub-category shows a negative profit block, meaning it consistently loses money despite sales.
+
+**Overall Dashboard Insight**
+- Technology leads total sales, with strong profit performance in Phones and Copiers.
+- Furniture and Office Supplies have uneven profit distribution, with a few loss-making products dragging down margins.
+- This dashboard helps identify where the company should push high-margin products and where operational cost issues may exist.
+
+---

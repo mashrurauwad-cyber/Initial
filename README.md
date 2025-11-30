@@ -46,3 +46,6 @@ The map highlights high sales clusters across various regions. Most large marker
 - Global activity is heavily centered around North America, Europe and Asia.
 
 ---
+
+## Tableau Dashboard
+![image alt](
